@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="style.css">
+	<title>Challenge-Decoder</title>
+</head>
+<body class="body">
+	<header class="header">
+		Decoder
+	</header>
+	<main class="main">
+		<section class="content">
+			<div>
+				<textarea class="textArea" id="text" cols="40" rows="17" type="text" placeholder=" Enter your text"></textarea>
+				<div class="information">
+					Insert only lowercase letters.
+					Do not insert special characters or accented letters.
+				</div>
+				
+				<div class="buttons">
+					<button class="btn-encrypt" onclick="btnEncrypt()">
+						Encrypt
+					</button>
+					<button class="btn-decrypt" onclick="btnDecrypt()">
+						Decrypt
+					</button>
+				</div>
+			</div>
+			<div class="copy">
+				<textarea class="message" id="message" cols="39" rows="17"></textarea>
+				<div class="unsee">
+
+				</div>
+				<div class="button-copy">
+					<p></p>
+					<button class="btn-copy" id="copy" onclick="btnCopy()">
+						Copy
+					</button>
+				</div>
+			</div>
+		</section>
+	</main>
+	<script src="script.js"></script>
+	<footer>
+		<p class="footer">Developed by Gab! Calazans</p>
+	</footer>
+</body>
+</html>
