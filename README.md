@@ -35,3 +35,5 @@ O projeto foi desenvolvido ao longo de quatro semanas utilizando o método ágil
 
 Sinta-se à vontade para explorar, enviar feedback e, claro, trocar mensagens secretas! Espero que aproveite a experiência de criptografar e descriptografar suas mensagens de forma divertida e segura.
 https://gabrielacalazans.github.io/ONE-Challenge-Decoder/
+
+![Build Status](https://github.com/GabrielaCalazans/ONE-Challenge-Decoder/blob/main/assets/badgeONE.png)
