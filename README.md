@@ -1,3 +1,5 @@
+![Build Status](https://github.com/GabrielaCalazans/ONE-Challenge-Decoder/blob/main/assets/badgeONE.png)
+
 # Criptografia de Mensagens Secretas
 
 Bem-vindo ao desafio de criptografia de mensagens secretas! Este projeto é uma aplicação simples que permite a troca de mensagens codificadas entre pessoas que compartilham o segredo da criptografia utilizada. Durante quatro semanas, trabalhei para criar uma ferramenta eficiente e fácil de usar.
@@ -35,5 +37,3 @@ O projeto foi desenvolvido ao longo de quatro semanas utilizando o método ágil
 
 Sinta-se à vontade para explorar, enviar feedback e, claro, trocar mensagens secretas! Espero que aproveite a experiência de criptografar e descriptografar suas mensagens de forma divertida e segura.
 https://gabrielacalazans.github.io/ONE-Challenge-Decoder/
-
-![Build Status](https://github.com/GabrielaCalazans/ONE-Challenge-Decoder/blob/main/assets/badgeONE.png)
